@@ -1,0 +1,90 @@
+
+Actividades capítulo 1 y 2 CCNA1
+
+UNIVERSIDAD DEL CAUCA
+
+FECHA: 		08 DE MARZO DE 2023
+
+NOMBRE: 		LAURA MARCELA MENDEZ RENGIFO
+CÓDIGO SIMCA: 	
+
+NOMBRE: 		ANGIE CAROLINA GÓMEZ ACOSTA
+CÓDIGO SIMCA: 	104618021468
+
+
+1. Leer los capítulos 1 y 2 del curso de Cisco
+2. Responder las preguntas de la lectura y en enviarlas en PDF.
+
+
+Preguntas de lectura: Capitulo 1
+
+
+2. Listar las actividades cotidianas que realiza usted utilizando internet.
+
+
+Internet me ha permitido ejecutar con frecuencia y de manera ágil actividades dentro de aspectos académicos, de entretenimiento, informativos, laborales, entre otros. Algunas de las actividades respectivamente son:
+
+- Buscar conceptos y material que me permita ampliar los conocimientos adquiridos en la universidad mediante el uso del buscador de google. 
+
+- Realizar trabajos colaborativos de forma online. 
+
+- Autoaprender sobre nuevas tecnologías y herramientas dentro de las TI  mediante el uso de plataformas como Udemy, Platzi, YouTube, Coursera, entre otras.
+
+- Ingresar a redes sociales, aplicaciones de mensajería instantánea y plataformas de streaming.
+
+- Buscar, leer y escuchar sobre noticias nacionales e internacionales.
+
+
+4. Describir los factores que afectan la calidad de las comunicaciones.
+
+
+Los factores que pueden llegar a afectar la calidad de las comunicaciones se clasifican en externos e internos. Dentro de los factores externos se encuentran:
+
+- La calidad de la ruta entre el emisor y el receptor, ya que la transmisión de la información se lleva a cabo mediante canales soportados por medios físicos como cables, fibra óptica, aire, entre otros. De modo que si la calidad del canal es mala puede llegar a presentarse distorsión, retraso y hasta pérdida de la información o en el peor de los casos la interrupción total de la comunicación. También pueden presentarse interferencias electromagnéticas y otras producidas por factores ambientales.
+
+- La cantidad de veces que el mensaje tiene que cambiar de forma. Esto puede llegar a presentarse cada vez que un mensaje debe transmitirse de un medio o formato a otro, ya que ocasiona la posibilidad de que se pierda información o que se produzcan errores que afecten su calidad y comprensión.
+
+- La cantidad de veces que el mensaje tiene que ser redireccionado o redirigido, puesto que en una red de computadores cada vez que los datos se enrutan a través de diferentes nodos de la red, existe la posibilidad de que se produzcan retrasos, errores o pérdidas de información.
+
+- La cantidad de mensajes adicionales que se transmiten simultáneamente en la red de comunicación. Esto debido a que cuando hay una gran cantidad de mensajes que se transmiten al mismo tiempo en la red, puede haber congestión y competencia por el ancho de banda disponible, lo que puede afectar la velocidad y la calidad de las comunicaciones que finalmente se traduce en retrasos o pérdida de mensajes.
+
+- La cantidad de tiempo asignado para una comunicación exitosa.
+
+En cuanto a los factores internos que pueden llegar a afectar la comunicación exitosa en la red, tenemos:
+
+- El tamaño del mensaje, ya que estos llegan a requerir más ancho de banda y pueden tardar más en transmitirse, lo que puede afectar la velocidad y calidad de la comunicación. 
+
+- La complejidad del mensaje. Un mensaje complejo ​​puede ser difícil de entender y puede requerir más tiempo y esfuerzo para ser procesado.
+
+- La importancia del mensaje. Esto hace referencia a que los mensajes importantes pueden requerir más atención y cuidado durante la transmisión, puesto que un mensaje con baja importancia o prioridad puede perderse si la red está sobrecargada.
+
+6. Responda brevemente, ¿Qué son los datos? ¿Qué es una red de datos? ¿Qué es una red convergente?
+
+* Datos: son unidades de información que viajan de un dispositivo a otro a través de la red. Los datos pueden ser de diferentes tipos, incluyendo texto, imágenes, audio, video, entre otros. Estos datos tienen que ser convertidos a bits, señales digitales codificadas en binario para poder ser transmitidos a través de la red y una vez ahí se les da el nombre de mensajes.
+
+* Red de Datos: es toda una infraestructura de comunicación que permite la transferencia de datos entre dispositivos en una red. Las redes de datos poseen protocolos para regular el envío, la redirección, la recepción  e interpretación de los mensajes.
+
+* Red convergente: una infraestructura de red que permite consolidar diferentes servicios y por ende transmitir múltiples tipos de tráfico como voz, vídeo y datos a través de una sola red. De modo que se elimina la necesidad de crear y mantener redes separadas.
+
+8. Investigar qué son las redes orientadas y no orientadas a la conexión.
+
+* Redes orientadas a la conexión: esta permite establecer una conexión entre dos dispositivos antes de que comience la transmisión de datos. De forma previa a la transmisión, la conexión pasa por un proceso de configuración donde se establecen parámetros como la velocidad de transmisión, el tamaño del paquete y la configuración de seguridad. Después de que se establece la conexión, los datos se transmiten entre los dispositivos y se asegura la integridad y la precisión de los datos. Una vez que se completa la transferencia de datos, se termina la conexión.
+
+* Redes no orientadas a la conexión: en esta red los dispositivos no establecen una conexión antes de la transmisión de datos. En cambio, los datos se transmiten como paquetes independientes, ya que un mensaje puede dividirse en múltiples bloques individuales que se envían directamente al dispositivo de destino sin establecer una conexión previa. Los bloques individuales contienen información de direccionamiento, estos indican tanto su punto de origen como su destino final. En este modelo, no se garantiza que los paquetes de datos lleguen al destino en el orden correcto o que se entreguen en absoluto.
+
+
+10. ¿Por qué importa la calidad del servicio en una red de datos? 
+
+La calidad del servicio es un aspecto crucial en una red de datos porque garantiza que los diferentes tipos de tráfico de red reciban la prioridad adecuada y se manejen de manera efectiva en la red. La QoS es importante, ya que las redes deben proporcionar servicios seguros, predecibles, mensurables y, a veces, garantizados.
+
+* Rendimiento: las redes necesitan mecanismos para administrar el tráfico de redes. Debido a lo anterior, la priorización del tráfico es muy importante, ya que ayuda a garantizar que los servicios de mayor prioridad tengan un ancho de banda adecuado y reduzcan la latencia, lo que puede mejorar la experiencia del usuario.
+
+* Fiabilidad: La QoS ayuda a garantizar la fiabilidad de la red y reduce las interrupciones de la red, lo que garantiza una comunicación más confiable y efectiva.
+
+* Seguridad: La QoS también puede ayudar a garantizar la seguridad de la red. Los servicios críticos, como la comunicación de voz y video y la transferencia de datos sensibles, pueden ser priorizados para asegurar que se manejen de manera segura y confiable.
+
+* Control de costos: La QoS también puede ayudar a controlar los costos de la red. La priorización del tráfico ayuda a garantizar que los recursos de la red se utilicen de manera más eficiente y se reduzca la necesidad de ampliar la capacidad de la red.
+
+
+
+
